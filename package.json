@@ -19,7 +19,7 @@
     "@babel/core": "^7.20.0",
     "@commitlint/cli": "^17.7.2",
     "@commitlint/config-conventional": "^17.7.0",
-    "@pedrohenry-santos/eslint-config": "^1.5.0",
+    "@pedrohenry-santos/eslint-config": "^1.5.1",
     "@types/react": "~18.2.14",
     "babel-plugin-module-resolver": "^5.0.0",
     "husky": "^8.0.3",
